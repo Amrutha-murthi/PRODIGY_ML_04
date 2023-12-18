@@ -10,7 +10,7 @@ This project aims to develop a hand gesture recognition model for accurately ide
 
 ## Kaggle Dataset:
 
-The dataset for training and testing the hand gesture recognition model can be obtained from Kaggle. Ensure that you download the relevant dataset and organize it appropriately before running the model. You can find a suitable dataset on Kaggle [here](https://www.kaggle.com/datasetlink).
+The dataset for training and testing the hand gesture recognition model can be obtained from Kaggle. Ensure that you download the relevant dataset and organize it appropriately before running the model. You can find a suitable dataset on Kaggle https://www.kaggle.com/datasetlink
 
 
 
