@@ -19,24 +19,8 @@ The dataset for training and testing the hand gesture recognition model can be o
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/yourusername/hand-gesture-recognition.git](https://github.com/Amrutha-murthi/PRODIGY_ML_04.git)
-```
-
-
-
-## Usage:
-
-1. Navigate to the project directory:
-
-```bash
+git clone https://github.com/Amrutha-murthi/PRODIGY_ML_04.git
 cd Prodigy-Task
-```
-
-2. Run the hand gesture recognition script:
-
-```bash
-python gesture_recognition.py
-```
 
 
 
